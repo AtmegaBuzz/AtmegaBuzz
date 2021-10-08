@@ -41,5 +41,5 @@
 </details>
 
 [Instagram]: https://www.instagram.com/cyber.spoof/
-[discord]: https://discordapp.com/users/9244/
+[Discord]: https://discordapp.com/users/9244/
 [linkedin]: https://www.linkedin.com/in/swapnil-shinde-5ba45118b/
