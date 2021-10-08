@@ -1,6 +1,5 @@
 ### Hey Buddy, I'm Swapnil Shinde - aka [CyberSpoof][Instagram] 👋
-
-[![Instagram Follow]][Instagram]
+[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 ## I'm a Student, Developer!!
 
