@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/9244/)
 
 
-## I'm a Student Grade 12!! |DEVELOPER|
+## I'm a Student in Grade 12!! |DEVELOPER|
 
 - 🌱 I’m a Django Developer 🤣
 - 🚀 I also have instreast in programming Microcontrollers and IOT
