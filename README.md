@@ -6,7 +6,7 @@
 
 ## I'm a Python Developer!! |DEVELOPER|
 
-- 🌱 I’m a Django Developer 🤣
+- 🌱 I’m a Django Developer
 - 🚀 I also have instreast in programming Microcontrollers and IOT
 - 💻 A cyber Security Enthusiast
 - 🥅 2021 Goals: Contribute more to Open Source projects
