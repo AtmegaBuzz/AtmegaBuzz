@@ -22,12 +22,6 @@
 
 ### Languages and Tools:
 
-<style>
-  .table{
-    border:none;
-  }
-<style/>
-
 <table class="table">
   
   <tr>
