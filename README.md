@@ -11,11 +11,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to  play guitar 
 - rocket I also have instreast in programming Microcontrollers and IOT
-
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 <br />
 
@@ -41,3 +40,5 @@
 </details>
 
 [Instagram]: https://www.instagram.com/cyber.spoof/
+[discord]: https://discordapp.com/users/9244/
+[linkedin]: https://www.linkedin.com/in/swapnil-shinde-5ba45118b/
