@@ -19,13 +19,7 @@
 
 <br />
 
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtmegaBuzz)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 [Instagram]: https://www.instagram.com/cyber.spoof/
 [Discord]: https://discordapp.com/users/9244/
