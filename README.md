@@ -1,17 +1,17 @@
-### Hey Buddy, I'm Swapnil Shinde - aka [CyberSpoof][Instagram] 👋
+### Hey Buddy, I'm [Swapnil Shinde][Personal] - aka [CyberSpoof][Instagram] 👋
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cyber.spoof/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnil-shinde-5ba45118b/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([Discord])
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/9244/)
 
 
 ## I'm a Student, Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to contribute with other repos
+- 🌱 I’m a Django Developer 🤣
+- 🚀 I also have instreast in programming Microcontrollers and IOT
+- 💻 A cyber Security Enthusiast
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to  play guitar 
-- rocket I also have instreast in programming Microcontrollers and IOT
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
@@ -19,19 +19,7 @@
 
 <br />
 
-### 📕 Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -43,3 +31,4 @@
 [Instagram]: https://www.instagram.com/cyber.spoof/
 [Discord]: https://discordapp.com/users/9244/
 [linkedin]: https://www.linkedin.com/in/swapnil-shinde-5ba45118b/
+[Personal]: https://www.instagram.com/swapnil.shinde.s/
