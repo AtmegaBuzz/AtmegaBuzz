@@ -4,20 +4,12 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/9244/)
 [![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://swapnilshinde9382@gmail.com)
 
-## I'm a Python Developer!! |DEVELOPER|
+## Found Interest In |DEVELOPER|
 
-- 🌱 I’m a Django Developer
-- 🚀 I also have instreast in programming Microcontrollers and IOT
+- ⛺ Django Developer
+- 🎮 Noob Player in Valorant
+- 🚀 Microcontrollers and IOT
 - 💻 A cyber Security Enthusiast
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-
-<br />
 
 
 ### Languages and Tools:
