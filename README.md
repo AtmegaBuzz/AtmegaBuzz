@@ -1,5 +1,5 @@
 ### Hey Buddy, I'm Swapnil Shinde - aka [CyberSpoof][Instagram] 👋
-![Instagram Follow](https://www.instagram.com/cyber.spoof/)
+[![Instagram Follow](https://www.instagram.com/cyber.spoof/)]
 
 ## I'm a Student, Developer!!
 
