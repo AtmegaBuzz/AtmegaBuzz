@@ -19,7 +19,8 @@
 
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+# My Github Stats
+![Swapnil's github stats](https://github-readme-stats.vercel.app/api?username=AtmegaBuzz)
 
 [Instagram]: https://www.instagram.com/cyber.spoof/
 [Discord]: https://discordapp.com/users/9244/
