@@ -7,7 +7,7 @@
 ## Found Interest In |DEVELOPER|
 
 - ⛺ Django Developer
-- 🎮 Noob Player in Valorant
+- 🎮 Noob Valorant Player
 - 🚀 Microcontrollers and IOT
 - 💻 A cyber Security Enthusiast
 
