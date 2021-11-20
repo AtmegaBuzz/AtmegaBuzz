@@ -9,6 +9,7 @@
 - ⛺ Django Developer
 - 🎮 Noob Valorant Player
 - 🚀 Microcontrollers and IOT
+- 🤖 Web Scrapping and Automation
 - 💻 A cyber Security Enthusiast
 
 
