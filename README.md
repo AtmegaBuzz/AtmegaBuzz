@@ -45,7 +45,7 @@
 <hr/>
 
 # My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtmegaBuzz&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtmegaBuzz&show_icons=true&theme=cobalt)
 
 [Instagram]: https://www.instagram.com/cyber.spoof/
 [Discord]: https://discordapp.com/users/9244/
